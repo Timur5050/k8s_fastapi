@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+
+# FastAPI
+fastapik8s.sqlite3
+
+# Environment
+*.env
+
+# Byte-compiled files
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# idea
+.idea
+
+# venv
+venv
