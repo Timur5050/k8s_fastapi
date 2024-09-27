@@ -18,6 +18,8 @@ fastapik8s.sqlite3
 # Log files
 *.log
 
-
 # idea
 .idea
+
+# venv
+venv
