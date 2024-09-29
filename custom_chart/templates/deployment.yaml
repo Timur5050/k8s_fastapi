@@ -41,6 +41,3 @@ spec:
             requests:
               cpu: {{ .Values.resources.requests.cpu }}
               memory: {{ .Values.resources.requests.memory }}
-          env:
-            - name: MY_ENV_VAR
-              value: {{ .Values.myEnvVar }}
