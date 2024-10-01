@@ -1,3 +1,3 @@
 ﻿# k8s_fastapi
 .
-use helm chart
+use helm chart / custom one
