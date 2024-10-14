@@ -31,4 +31,3 @@ I deployed the project on a Kubernetes cluster using Minikube for local developm
         I set up port forwarding from the Minikube service to my local machine, making the service's APIs accessible. The forwarding is done at the service level (not the pod level) to ensure all instances can handle requests.
     Service Scaling:
         I verified the high availability setup by scaling the web server to two instances and confirming that each instance properly enforced its own rate limit while serving requests.
-
